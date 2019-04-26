@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Introduction to Java Programming",
+    "category": "BOOK",
+    "price": 53.98
+  },
+  {
+    "id": 2,
+    "name": "Creative WP-300",
+    "category": "TECH",
+    "price": 132
+  }
+]
